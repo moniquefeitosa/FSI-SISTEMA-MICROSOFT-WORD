@@ -8,6 +8,7 @@ Link: https://github.com/moniquefeitosa/FSI-SISTEMA-MICROSOFT-WORD/blob/main/V%C
 
 Video 2 - Exemplo prático Word
 Link: https://github.com/moniquefeitosa/FSI-SISTEMA-MICROSOFT-WORD/blob/main/Video%202%20-%20Exemplo%20Pratico%20Word.mp4
+
 Link do currículo usado no vídeo: https://github.com/moniquefeitosa/FSI-SISTEMA-MICROSOFT-WORD/blob/main/Curriculo%20Monique_Feitosa.docx
 
 Além disso, também possui um relatório descritivo contendo algumas informações adicionais sobre a ferramenta. 
