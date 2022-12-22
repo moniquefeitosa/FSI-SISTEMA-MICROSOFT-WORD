@@ -37,7 +37,8 @@ Video 2 - Feramentas do Word e Exemplo prático
 
 Além disso, também possui um relatório descritivo contendo algumas informações adicionais sobre a ferramenta. 
 
-https://github.com/moniquefeitosa/FSI-SISTEMA-MICROSOFT-WORD.gi
+Link do Repositório:
+https://github.com/moniquefeitosa/FSI-SISTEMA-MICROSOFT-WORD.git
 
 Link do Vídeo 1 - Primeiros Passos Word:
 https://github.com/moniquefeitosa/FSI-SISTEMA-MICROSOFT-WORD/blob/main/V%C3%ADdeo%201%20-%20Primeiros%20Passos%20Word.mp4
@@ -45,3 +46,5 @@ https://github.com/moniquefeitosa/FSI-SISTEMA-MICROSOFT-WORD/blob/main/V%C3%ADde
 Link do Vídeo 2 - Exemplo Prático Word:
 https://github.com/moniquefeitosa/FSI-SISTEMA-MICROSOFT-WORD/blob/main/Video%202%20-%20Exemplo%20Pratico%20Word.mp4
 
+Link do Currículo usado no Vídeo 2:
+https://github.com/moniquefeitosa/FSI-SISTEMA-MICROSOFT-WORD/blob/main/Curriculo%20Monique_Feitosa.docx
