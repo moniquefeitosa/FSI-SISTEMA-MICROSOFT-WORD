@@ -29,3 +29,10 @@ Os vídeos foram feitos utilizando a plataforma OBS Studio e foram postados no r
 
 Material de Replicação
 https://github.com/moniquefeitosa/FSI-SISTEMA-MICROSOFT-WORD.gi
+
+Link do Vídeo 1 - Primeiros Passos Word:
+https://github.com/moniquefeitosa/FSI-SISTEMA-MICROSOFT-WORD/blob/main/V%C3%ADdeo%201%20-%20Primeiros%20Passos%20Word.mp4
+
+Link do Vídeo 2 - Exemplo Prático Word:
+https://github.com/moniquefeitosa/FSI-SISTEMA-MICROSOFT-WORD/blob/main/Video%202%20-%20Exemplo%20Pratico%20Word.mp4
+
