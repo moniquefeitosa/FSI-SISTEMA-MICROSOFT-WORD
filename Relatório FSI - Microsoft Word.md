@@ -27,7 +27,16 @@ ajudá-los nessas formatações e edições.
 O trabalho foi feito utilizando a plataforma do sistema da Microsoft Word e foi tilizado como exemplo prático um currículo para formatação e atualização.
 Os vídeos foram feitos utilizando a plataforma OBS Studio e foram postados no repositório do github.
 
-Material de Replicação
+Material de Replicação:
+Repositório contendo algumas informações relativas a ferramenta da microsoft word
+
+Contém 2 vídeos sendo eles:
+
+Video 1 - Primeiros Passos do Word
+Video 2 - Feramentas do Word e Exemplo prático 
+
+Além disso, também possui um relatório descritivo contendo algumas informações adicionais sobre a ferramenta. 
+
 https://github.com/moniquefeitosa/FSI-SISTEMA-MICROSOFT-WORD.gi
 
 Link do Vídeo 1 - Primeiros Passos Word:
